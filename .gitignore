@@ -1,0 +1,8 @@
+.idea
+.ipynb_checkpoints
+
+202*
+
+*.zip
+
+node_modules
