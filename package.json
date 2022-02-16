@@ -1,0 +1,20 @@
+{
+  "name": "wadmgrlite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mgrLite.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "glob": "^6.0.1",
+    "iconv-lite": "^0.4.13",
+    "jschardet": "^1.4.1",
+    "moment": "^2.10.6",
+    "natural": "^0.2.1",
+    "underscore": "^1.8.3",
+    "xlsx": "^0.8.0"
+  }
+}
